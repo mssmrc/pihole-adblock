@@ -4,10 +4,10 @@
 # License: no
 # Issues: no
 # Expires: 1 day
-# Last modified: 10 Apr 2025 09:56 BRT
-# Version: 2025.0410.01
+# Last modified: 10 Apr 2025 10:25 BRT
+# Version: 2025.0410.02
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 25
+# Number of entries: 32
 #
 shopeemobile.com
 cf.shopee.sg
@@ -34,3 +34,11 @@ tpc.googlesyndication.com
 adservice.google.com
 googletagservices.com
 googletagmanager.com
+googleadservices.com
+www.googleadservices.com
+pagead2.googlesyndication.com
+tpc.googlesyndication.com
+adservice.google.com
+ad.doubleclick.net
+g.doubleclick.net
+securepubads.g.doubleclick.net
