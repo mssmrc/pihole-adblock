@@ -1,0 +1,36 @@
+# Title: Bloqueio shopee e marketplace
+# Description: Lista de dominios que a shopee usa para mostrar anuncios nos sites
+# Homepage: https://github.com/mssmrc/pihole-adblock
+# License: no
+# Issues: no
+# Expires: 1 day
+# Last modified: 10 Apr 2025 09:56 BRT
+# Version: 2025.0410.01
+# Syntax: Domains (including possible subdomains)
+# Number of entries: 25
+#
+shopeemobile.com
+cf.shopee.sg
+shopee.com.my
+deo.shopeemobile.com
+cv.shopee.co
+cv.shopee.co.br
+mall.shopee.com
+mall.shopee.com.br
+ads.shopee
+ads.shopee.br
+ads.shopee.com
+ads.shopee.com.br
+tracking.shopee.com
+tracking.shopee.br
+tracking.shopee.com.br
+tracking.shopee
+api.shopee.com
+api.shopee.com.br
+api.shopee
+googleads.g.doubleclick.net
+pagead2.googlesyndication.com
+tpc.googlesyndication.com
+adservice.google.com
+googletagservices.com
+googletagmanager.com
